@@ -56,7 +56,7 @@ if (command.startsWith('/toolsddos')) {
 ┗━━━━━[ ARTA STORE  ]━━━━
        
           ⌕ █║▌║▌║ - ║▌║▌║█ ⌕`;
- bot.sendPhoto(chatId, settings.pp { caption: menuText})
+ bot.sendPhoto(chatId, settings.pp, { caption: menuText})
  }
  
  if (command.startsWith('/uservvip')) { 
