@@ -9,8 +9,6 @@
   "keywords": [
     "telegram",
     "bot",
-    "cluster": "^0.7.7",
-    "colors": "^1.4.0",
     "nodejs"
   ],
   "author": "Your Name",
